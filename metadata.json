@@ -1,0 +1,6 @@
+{
+  "name": "Bastion Strike",
+  "description": "3D international championship volleyball game with real-time online multiplayer rooms, 8 national teams, power spikes, and World Tour mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
